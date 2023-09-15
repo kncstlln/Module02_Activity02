@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qISTdfAdX2RQWxddxhdZOY37D6RYFON8MQbA91gZRSWNvP/01QsI7qL3MPkNfhw5VSHeMf0mj7jeDIn9QYTcng==",
+  "success": true,
+  "projectFilePath": "/Users/kane/Projects/Module2_INotifyPropertyChanged/Module2_INotifyPropertyChanged/Module2_INotifyPropertyChanged.iOS/Module2_INotifyPropertyChanged.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/kane/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/kane/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/kane/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
